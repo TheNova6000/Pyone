@@ -1,0 +1,39 @@
+let y is 77
+let x is 2 3 +   
+y is 4 5 +
+y is 77
+
+print 3 2 -
+print 2 3 *
+print 4 2 /
+print 10 5 * 2 +
+
+print y
+
+print "1"
+print "yo"
+
+let a is "hello"
+let b is "world"
+
+print a b +
+
+print "hello world"
+let z is "hello" b +
+z be b b +
+
+print 2 1 is greater than
+
+
+if 1 2 is greater than
+print "This must not be printed"
+otherwise 2 1 is greater than
+print "This must be printed"
+print "This is the second line must be printed"
+else
+print "Not working"
+end
+
+
+print "end after end"
+

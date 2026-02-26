@@ -1,0 +1,11 @@
+let score is 85
+
+if score is greater than or equal to 90
+    print "Grade A"
+otherwise score is greater than or equal to 75
+    print "Grade B"
+otherwise score is greater than or equal to 50
+    print "Grade C"
+else
+    print "Fail"
+end

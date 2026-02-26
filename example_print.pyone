@@ -1,0 +1,10 @@
+let x is 10
+let y is 30
+
+print "The value of x is"
+print x
+
+print "The sum is"
+print x + y
+
+print "Calculation done"

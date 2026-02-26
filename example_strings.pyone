@@ -1,0 +1,9 @@
+let first is "Sri"
+let second is "Krishna"
+
+print first + second
+
+let greeting is "Hello"
+let name is "Nova"
+
+print greeting + name

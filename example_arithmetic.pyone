@@ -1,0 +1,10 @@
+let a is 20
+let b is 5
+
+print a + b
+print a - b
+print a * b
+print a / b
+
+let result is a * b
+print result
